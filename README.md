@@ -9,6 +9,15 @@ Roblox game project powered by Rojo.
 - `src/shared` → `ReplicatedStorage/Shared`
 - `src/workspace` → `Workspace/Map`
 
+## Included starter setup
+
+- `.gitignore`
+- `aftman.toml`
+- `wally.toml`
+- 기본 라운드 루프 (`RoundService.server.luau`)
+- 기본 HUD (`HUD.client.luau`)
+- 공용 설정 (`GameConfig.luau`, `GameState.luau`)
+
 ## Run
 
 ```bash

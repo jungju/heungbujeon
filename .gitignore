@@ -1,0 +1,14 @@
+# Roblox / Rojo
+*.rbxl
+*.rbxlx.lock
+*.rbxm
+*.rbxmx
+
+# Wally / Aftman
+Packages/
+.wally/
+.wally-cache/
+
+# General
+.DS_Store
+Thumbs.db
